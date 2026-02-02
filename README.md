@@ -7,7 +7,7 @@
 
 [![paper](https://img.shields.io/badge/arXiv-Paper-red.svg)](https://arxiv.org/abs/2507.06543)
 [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=github)](https://token-bottleneck.github.io/)
-[![models](https://img.shields.io/badge/Link-Models-yellow.svg)]()
+[![models](https://img.shields.io/badge/Link-Models-yellow.svg)](https://huggingface.co/taekyung-k/tobo_vit_small)
 
 
 ### Abstract
